@@ -8,12 +8,9 @@
   <a href="https://github.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>/commits"><img src="https://img.shields.io/badge/commit-daily%20log-informational" alt="commit"></a>
 </p>
 
----<br>
-
-## 💪 Commitment
-Grow through persistence, not perfection.  
-Keep learning, keep building, never stop improving.  
 <br>
+<br>
+
 
 ## ✍️ 꾸준한 기록
 - 하루 한 줄이라도 조금씩 기록 ( **지속성** 우선)
