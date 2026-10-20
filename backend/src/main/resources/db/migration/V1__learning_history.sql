@@ -1,0 +1,5 @@
+CREATE TABLE learning_day (
+  learned_on DATE PRIMARY KEY,
+  lesson_id VARCHAR(40) NOT NULL,
+  completed_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
+);
